@@ -1,0 +1,1640 @@
+[
+    {
+      "value": [
+        "3",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "4",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "5",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "2"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "3",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "4",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "5",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "3"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "4",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "4",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "4"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "4"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "4"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "4"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "4"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "4"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "4"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "5",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "5",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "5",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "5"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "6"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "6"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "6"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "6"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "7"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "7"
+      ],
+      "suited": true,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "6"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "6"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "7"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "6"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "7"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "6"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "7"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "6"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "7"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "8"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "6"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "7"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "8"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "2"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "3"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "4"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "5"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "6"
+      ],
+      "suited": false,
+      "rank": 1,
+      "pocket": false
+    },
+    {
+      "value": [
+        "2",
+        "2"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": true
+    },
+    {
+      "value": [
+        "3",
+        "3"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": true
+    },
+    {
+      "value": [
+        "4",
+        "4"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": true
+    },
+    {
+      "value": [
+        "5",
+        "5"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": true
+    },
+    {
+      "value": [
+        "6",
+        "6"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": true
+    },
+    {
+      "value": [
+        "K",
+        "2"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "2"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "3"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "3"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "5",
+        "4"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "4"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "4"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "5"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "5"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "5"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "5"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "6",
+        "5"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "5"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "5"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "5"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "6"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "6"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "6"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "6"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "6"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "7"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "7"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "7"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "7"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "8",
+        "7"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "8"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "8"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "8"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "8"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "8"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "9"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "9"
+      ],
+      "suited": true,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "8"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "9"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "8"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "9"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "9"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "9"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "7"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "8"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "9"
+      ],
+      "suited": false,
+      "rank": 2,
+      "pocket": false
+    },
+    {
+      "value": [
+        "7",
+        "7"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": true
+    },
+    {
+      "value": [
+        "8",
+        "8"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": true
+    },
+    {
+      "value": [
+        "9",
+        "9"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": true
+    },
+    {
+      "value": [
+        "T",
+        "T"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": true
+    },
+    {
+      "value": [
+        "J",
+        "J"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": true
+    },
+    {
+      "value": [
+        "Q",
+        "Q"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": true
+    },
+    {
+      "value": [
+        "K",
+        "K"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": true
+    },
+    {
+      "value": [
+        "A",
+        "A"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": true
+    },
+    {
+      "value": [
+        "A",
+        "7"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "8"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "9"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "T"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "J"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "Q"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "K"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "9",
+        "8"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "T",
+        "9"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "9"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "T"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "T"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "T"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "J",
+        "T"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "J"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "J"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "T"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "Q",
+        "J"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "Q"
+      ],
+      "suited": true,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "T"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "J"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "K",
+        "Q"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "T"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "J"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "Q"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    },
+    {
+      "value": [
+        "A",
+        "K"
+      ],
+      "suited": false,
+      "rank": 3,
+      "pocket": false
+    }
+  ]
